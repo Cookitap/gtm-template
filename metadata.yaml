@@ -1,0 +1,5 @@
+homepage: "https://cookitap.com"
+documentation: "https://github.com/Cookitap/gtm-template#readme"
+versions:
+  - sha: ee46a9dabb49104131c8b46da5f61df0e9af6466
+    changeNotes: Initial release.
